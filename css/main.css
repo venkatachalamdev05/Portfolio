@@ -1291,7 +1291,7 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #intro {
-	background: #151515 url(../images/img.gif) no-repeat center bottom;
+	background-color: black;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
